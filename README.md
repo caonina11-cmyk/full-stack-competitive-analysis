@@ -40,6 +40,7 @@ full-stack-competitive-analysis/
   references/
     analysis-frameworks.md
     report-templates.md
+    full-report-template.md
     research-workflow.md
     ux-product-design-audit.md
     diagrams.md
@@ -107,6 +108,7 @@ full-stack-competitive-analysis/
 - `SKILL.md`：Skill 主入口和核心执行规则。
 - `references/research-workflow.md`：信息采集、竞品池选择、目标拆解关键因素和证据规则。
 - `references/report-templates.md`：报告阅读路径、模块契约和展示规则。
+- `references/full-report-template.md`：仅在需要固定目录或逐章检查时读取的完整报告脚手架。
 - `references/analysis-frameworks.md`：商业、战略、用户、功能、UX、增长等分析框架。
 - `references/ux-product-design-audit.md`：体验和界面专项分析规则。
 - `references/diagrams.md`：需要图表时的表达规则。
